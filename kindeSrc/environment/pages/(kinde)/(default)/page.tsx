@@ -111,7 +111,7 @@ const styles = {
       // maskImage: "radial-gradient(circle at top, black 0%, transparent 70%)",
     },
     logo: {
-      width: "4rem",
+      // width: "4rem",
       marginBottom: "1rem",
     },
     heading: {
