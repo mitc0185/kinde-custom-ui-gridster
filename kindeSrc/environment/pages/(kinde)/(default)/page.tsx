@@ -158,6 +158,7 @@ const Layout: React.FC<KindePageEvent> = async ({ request, context }) => {
             --kinde-base-font-family: -apple-system, system-ui, BlinkMacSystemFont, Helvetica, Arial, Segoe UI, Roboto, sans-serif;
             --kinde-control-select-text-border-radius: 8px;
             --kinde-button-primary-background-color: #00a6e1;
+            --kinde-button-primary-background-color-hover: #00a6e1;
             --kinde-button-primary-color: white;
             --kinde-button-border-radius: 8px;
             --kinde-button-secondary-background-color: #fff;
